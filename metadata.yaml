@@ -1,10 +1,16 @@
 _repo: Personal-Recollections-and-Civil-War-Diary-1864_47332
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47332-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Abbott, Lemuel Abijah
     gutenberg_agent_id: '44261'
     url: http://www.gutenberg.org/2009/agents/44261
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47332#Personal-Recollections-and-Civil-War-Diary-1864
 gutenberg_issued: '2014-11-12'
 gutenberg_type: Text
 identifiers:
